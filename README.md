@@ -12,3 +12,6 @@ print("hi")  #не работает <br>
     <li>Первое есть, я разобрался</li>
     <li>Я как раз изучал что-то похожее</li>
   </ol>
+git push origin main
+git fetch origin main
+git remote add origin https://github.com/lostghost-105/Hello-world
